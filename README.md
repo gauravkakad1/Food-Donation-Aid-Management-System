@@ -1,4 +1,4 @@
-# Food Donation Management System
+# Food Donation Aid Management System
 
 A web application which is useful for management of food donation and collection activities.  
 [View Demo](https://food-aid.onrender.com/)
