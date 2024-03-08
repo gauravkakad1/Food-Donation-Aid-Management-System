@@ -103,7 +103,7 @@ For running the application:
 ## Useful Links
 
 - Demo: https://food-aid-aayush.herokuapp.com/
-- Github Repo: https://github.com/aayush301/Food-donation-management-system
+- Github Repo: https://github.com/gauravkakad1/Food-Donation-Aid-Management-System
 - Nodejs download: https://nodejs.org/
 - VS Code download: https://code.visualstudio.com/
 - Tutorials: https://www.w3schools.com/
@@ -120,5 +120,5 @@ For running the application:
 
 ## Contact
 
-- Email: aayush5521186@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
+- Email: gauravkakad2468@gmail.com
+- Linkedin: https://www.linkedin.com/in/gaurav-kakad-514a53245/
